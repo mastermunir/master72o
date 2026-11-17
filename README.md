@@ -20,7 +20,7 @@
 
 ## 💡 My professional Summary
 
-I am a **Senior AI Evaluation Engineer & Multimodal Benchmark Specialist** dedicated to building, benchmarking, and hardening production-grade AI systems. My focus centers on **empirical measurement**, **formal statistical rigor**, and **interactive evaluation studios (Streamlit & Next.js/FastAPI)** to audit foundation models, agentic workflows, and data annotation pipelines.
+I am an **AI Evaluation Engineer & Multimodal Benchmark Specialist** dedicated to building, benchmarking, and hardening production-grade AI systems. My focus centers on **empirical measurement**, **formal statistical rigor**, and **interactive evaluation studios (Streamlit & Next.js/FastAPI)** to audit foundation models, agentic workflows, and data annotation pipelines.
 
 My engineering portfolio spans **8 Flagship AI Evaluation Systems** and **19 specialized evaluation, RLHF, and safety repositories**, totaling **257/257 passing automated tests (100%)** with complete, transparent results provenance.
 > **Latest Deep Engineering Release**: Expanded automated test coverage to **273/273 passing tests (100%)** across all 8 Flagships (`+16` new unit tests covering IPO/SimPO alignment, DocVQA ANLS, COCO layout mAP, R@1-AUC temporal NMS, SSRF/PII egress sandboxing, and AlignForge DPO/Wilson harnesses).
